@@ -72,7 +72,7 @@ msgstr "Dein Passwort wurde aktualisiert"
 
 #: r2/controllers/api.py:901
 msgid "replied"
-msgstr ""
+msgstr "beantwortet"
 
 #: r2/controllers/api.py:962
 msgid "shared"
@@ -94,7 +94,7 @@ msgstr "Gelöscht"
 
 #: r2/controllers/api.py:1215 r2/templates/subredditstylesheet.html:199
 msgid "bad image name"
-msgstr ""
+msgstr "Fehlerhafter Bildname"
 
 #: r2/controllers/api.py:1219
 #, python-format
@@ -103,15 +103,15 @@ msgstr "zu viele Bilder (Sie bekommen nur %d)"
 
 #: r2/controllers/api.py:1227
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Ungültiges Bild oder allgemeiner Bildfehler"
 
 #: r2/controllers/api.py:1682
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "Eingefordert! Jetzt geh auf Jemandes Nutzerseite und gib ihm ein Geschenk"
 
 #: r2/controllers/api.py:1687
 msgid "claimed!"
-msgstr ""
+msgstr "Eingefordert!"
 
 #: r2/controllers/api.py:1703
 msgid "an email will be sent to that account's address shortly"
@@ -123,15 +123,15 @@ msgstr "Versuch es morgen nochmal"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
-msgstr ""
+msgstr "Ungültige css class"
 
 #: r2/controllers/api.py:1935 r2/controllers/api.py:2116
 msgid "too many css classes"
-msgstr ""
+msgstr "Zu viele css classes"
 
 #: r2/controllers/api.py:2132
 msgid "max flair templates reached"
-msgstr ""
+msgstr "Maximale Flair Vorlagen erreicht"
 
 #: r2/controllers/buttons.py:201 r2/controllers/buttons.py:209
 msgid "reddit buttons"
@@ -206,7 +206,7 @@ msgstr "Dieser Benutzername ist schon vergeben"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr "Dieser Benurtername ist von einem gelöschten Account belegt"
+msgstr "Dieser Benutzername ist von einem gelöschten Account belegt"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
@@ -234,7 +234,7 @@ msgstr "Dieser Kommentar wurde gelöscht"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "Dieses Element wurde gelöscht"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
@@ -279,7 +279,7 @@ msgstr "Bitte gib einen Benutzernamen ein"
 #: r2/controllers/errors.py:53
 #, python-format
 msgid "that number isn't in the right range (%(min)d to %(max)d)"
-msgstr ""
+msgstr "Diese Nummer liegt nicht im Bereich (%(min)d bis %(max)d)"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
@@ -338,7 +338,7 @@ msgstr "Diese Option ist nicht gültig"
 #: r2/controllers/errors.py:70
 #, python-format
 msgid "the following emails are invalid: %(emails)s"
-msgstr "Die Folgenden EMails sind ungültig: %(emails)s"
+msgstr "Die Folgenden Emails sind ungültig: %(emails)s"
 
 #: r2/controllers/errors.py:71
 msgid "please enter at least one email address"
@@ -369,18 +369,17 @@ msgstr "Bitte gib ein Datum in der Form mm/tt/jjjj ein."
 
 #: r2/controllers/errors.py:76
 msgid "the dates need to be in order and not identical"
-msgstr ""
+msgstr "Die Daten müssen geordnet und verschieden sein"
 
 #: r2/controllers/errors.py:77
 #, python-format
 msgid "please enter a date at least %(day)s days in the future"
-msgstr ""
-"Bitte gib ein Datum an, dass mindestens %(day)s Tage in der Zukunft liegt"
+msgstr "Bitte gib ein Datum an, dass mindestens %(day)s Tage in der Zukunft liegt"
 
 #: r2/controllers/errors.py:78
 #, python-format
 msgid "please enter a date at least %(day)s days in the past"
-msgstr ""
+msgstr "Bitte gib ein Datum ein das mindestens %(day)s Tage in der Vergangenheit liegt"
 
 #: r2/controllers/errors.py:79
 #, python-format
@@ -395,7 +394,7 @@ msgstr ""
 #: r2/controllers/errors.py:81
 #, python-format
 msgid "this is too long (max: %(max_length)s)"
-msgstr ""
+msgstr "Das ist zu lang (max: %(max_length)s)"
 
 #: r2/controllers/errors.py:82
 msgid "we need something here"
@@ -407,7 +406,7 @@ msgstr "Den Code haben wir noch nie gesehen :O"
 
 #: r2/controllers/errors.py:84
 msgid "that code has already been claimed -- perhaps by you?"
-msgstr ""
+msgstr "Dieser Code ist bereits beansprucht worden -- Vielleicht von dir?"
 
 #: r2/controllers/errors.py:85
 msgid "that reddit doesn't allow text posts"
@@ -419,19 +418,19 @@ msgstr "Dieses Reddit erlaubt ausschliesslich Textposts"
 
 #: r2/controllers/errors.py:87
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "Das ist bereits Geschichte; Es ist zu spät darauf zu antworten"
 
 #: r2/controllers/errors.py:88
 msgid "invalid css name"
-msgstr ""
+msgstr "Ungültiger css name"
 
 #: r2/controllers/errors.py:89
 msgid "too many flair css classes"
-msgstr ""
+msgstr "Zuviele flair css classes"
 
 #: r2/controllers/errors.py:90
 msgid "invalid client id"
-msgstr ""
+msgstr "Ungültige client id"
 
 #: r2/controllers/errors.py:91
 msgid "access denied by the user"
@@ -443,11 +442,11 @@ msgstr ""
 
 #: r2/controllers/errors.py:93
 msgid "cannot perform this action via the API"
-msgstr ""
+msgstr "Kann diese Aktion nicht mittels API ausführen"
 
 #: r2/controllers/front.py:121
 msgid "self service help"
-msgstr ""
+msgstr "Selbsthilfe"
 
 #: r2/controllers/front.py:301
 msgid "no comments (yet)"
@@ -471,7 +470,7 @@ msgstr "Alle %d anzeigen"
 #: r2/controllers/front.py:330
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "zeige %d"
 
 #: r2/controllers/front.py:346
 msgid "create a reddit"
@@ -489,11 +488,11 @@ msgstr "Alles"
 
 #: r2/controllers/front.py:413
 msgid "filter by action"
-msgstr ""
+msgstr "Nach Aktion filtern"
 
 #: r2/controllers/front.py:415
 msgid "filter by moderator"
-msgstr ""
+msgstr "Nach Moderator filtern"
 
 #: r2/controllers/front.py:579 r2/lib/menus.py:142
 msgid "awards"
@@ -531,7 +530,7 @@ msgstr "Passwort zurücksetzen"
 
 #: r2/controllers/front.py:1064 r2/controllers/post.py:161
 msgid "opt out"
-msgstr ""
+msgstr "Aussteigen"
 
 #: r2/controllers/front.py:1064 r2/controllers/post.py:171
 msgid "welcome back"
@@ -544,7 +543,7 @@ msgstr "Vielen Dank"
 #: r2/controllers/front.py:1127 r2/controllers/front.py:1149
 #: r2/lib/menus.py:101 r2/templates/gold.html:84
 msgid "reddit gold"
-msgstr ""
+msgstr "Reddit Gold"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
@@ -564,7 +563,7 @@ msgstr "Vielen Dank für den Erwerb von creddits! :)"
 
 #: r2/controllers/ipn.py:460
 msgid "To spend them, visit [/gold](/gold) or your favorite person's userpage."
-msgstr ""
+msgstr "Zum ausgeben, besuche [/gold](/gold) oder die Nutzerseite deiner lieblings Person"
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
@@ -630,7 +629,7 @@ msgstr "Profil für %(user)s"
 #: r2/controllers/listingcontroller.py:631
 #: r2/templates/printablebuttons.html:332
 msgid "unread"
-msgstr ""
+msgstr "ungelesen"
 
 #: r2/controllers/listingcontroller.py:624
 msgid "comment replies"
@@ -666,7 +665,7 @@ msgstr "Meinen Benutzernamen und mein Anmeldedatum einsehen"
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
-msgstr "Älter als 18?"
+msgstr "Über 18?"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
@@ -678,7 +677,7 @@ msgstr ""
 
 #: r2/controllers/promotecontroller.py:509
 msgid "bad image"
-msgstr "schlechtes Bild"
+msgstr "ungültiges Bild"
 
 #: r2/controllers/reddit_base.py:879
 msgid "search failed"
@@ -714,8 +713,7 @@ msgstr "Wähle ein Land aus"
 
 #: r2/controllers/validator/validator.py:1518
 msgid "Our ToS don't cover your country (yet). Sorry."
-msgstr ""
-"Unsere Nutzungsbedingungen sind (noch) nicht an dein Land angepasst. Sorry :("
+msgstr "Unsere Nutzungsbedingungen sind (noch) nicht an dein Land angepasst. Sorry :("
 
 #: r2/controllers/validator/validator.py:1537
 msgid "credit card numbers should be 13 to 16 digits"
@@ -727,7 +725,7 @@ msgstr "Daten sollten im Format JJJJ-MM angegeben werden"
 
 #: r2/controllers/validator/validator.py:1542
 msgid "card verification codes should be 3 or 4 digits"
-msgstr ""
+msgstr "Karten Verifikations nummern sollten 3 oder 4 zeichen lang sein"
 
 #: r2/lib/cssfilter.py:306
 msgid "if you need backslashes, you're doing it wrong"
@@ -759,7 +757,7 @@ msgstr "Empfohlen"
 
 #: r2/lib/menus.py:52
 msgid "promote"
-msgstr ""
+msgstr "bewerben"
 
 #: r2/lib/menus.py:56
 msgid "hot"
@@ -799,7 +797,7 @@ msgstr "Kontrovers"
 
 #: r2/lib/menus.py:65
 msgid "best"
-msgstr ""
+msgstr "beste"
 
 #: r2/lib/menus.py:66
 msgid "saved {toolbar}"
@@ -859,7 +857,7 @@ msgstr "Einstellungen"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "Blog"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:413
 msgid "logout"
@@ -887,7 +885,7 @@ msgstr "Quelltext"
 
 #: r2/lib/menus.py:98
 msgid "mobile"
-msgstr ""
+msgstr "mobil"
 
 #: r2/lib/menus.py:99
 msgid "store"
@@ -946,11 +944,11 @@ msgstr "Details"
 #: r2/lib/menus.py:120
 #, python-format
 msgid "other discussions (%(num)s)"
-msgstr ""
+msgstr "andere Diskussionen (%(num)s)"
 
 #: r2/lib/menus.py:121
 msgid "traffic stats"
-msgstr ""
+msgstr "traffic Statistiken"
 
 #: r2/lib/menus.py:124
 msgid "home"
@@ -1031,7 +1029,7 @@ msgstr "Berichterstatter"
 
 #: r2/lib/menus.py:147
 msgid "reported links"
-msgstr ""
+msgstr "gemeldete Links"
 
 #: r2/lib/menus.py:148
 msgid "reported authors"
@@ -1088,7 +1086,7 @@ msgstr ""
 
 #: r2/lib/menus.py:164
 msgid "unseen"
-msgstr ""
+msgstr "ungelesen"
 
 #: r2/lib/menus.py:165
 msgid "roadblock"
@@ -1390,7 +1388,8 @@ msgstr "(Keine Bange, es dauert nur ein paar Sekunden)"
 msgid ""
 "Log in or register to connect your reddit account with [%(app_name)s]"
 "(%(app_about_url)s)."
-msgstr ""
+msgstr "Logge dich ein oder Regestiere dich um deinen reddit account mit [%(app_name)s]"
+"(%(app_about_url)s) zu verbinden."
 
 #: r2/lib/strings.py:78
 #, python-format
@@ -1427,12 +1426,13 @@ msgstr ""
 msgid ""
 "it's too late to change your vote on these things (the verdict has been "
 "issued):"
-msgstr ""
+msgstr "Es ist zu spät deine Stimme für diese Dinge zu ändern (Die Entscheidung)"
+"ist bereits getroffen worden):"
 
 #: r2/lib/strings.py:86
 #, python-format
 msgid "visit [%(link)s](%(link)s) for more information"
-msgstr ""
+msgstr "Bessuche [%(link)s](%(link)s) für mehr Informationen"
 
 #: r2/lib/strings.py:90
 #, python-format
@@ -1527,11 +1527,11 @@ msgstr "Zu groß. Halte es kleiner als %(max_size)dkb"
 #: r2/lib/strings.py:121
 #, python-format
 msgid "syntax error: \"%(syntaxerror)s\""
-msgstr ""
+msgstr "Syntax Fehler: \"%(syntaxerror)s\""
 
 #: r2/lib/strings.py:122
 msgid "@imports are not allowed"
-msgstr ""
+msgstr "@imports sind nicht zulässig"
 
 #: r2/lib/strings.py:123
 #, python-format
@@ -1559,7 +1559,7 @@ msgstr ""
 #: r2/lib/strings.py:129
 #, python-format
 msgid "%(author)s comments on %(title)s"
-msgstr ""
+msgstr "%(author)s Kommentare zu %(title)s"
 
 #: r2/lib/strings.py:130
 #, python-format
@@ -1629,14 +1629,17 @@ msgid ""
 "Our search machines are under too much load to handle your request right "
 "now. :( Sorry for the inconvenience. Try again in a little bit -- but please "
 "don't mash reload; that only makes the problem worse."
-msgstr ""
+msgstr "Unsere such Rechner haben zurzeit eine zu hohe Auslastung für deine"
+Anfrage. :( Entschuldige die Unannehmlichkeit. Versuche es später noch einmal, "
+"aber bitte hämmer nicht auf Refresh, das machts nur Schlimmer."
 
 #: r2/lib/strings.py:142
 #, python-format
 msgid ""
 "I couldn't understand your query, so I simplified it and searched for "
 "\"%(clean_query)s\" instead."
-msgstr ""
+msgstr "Ich konnte deine anfrage nicht verstehen, daher habe ich sie "
+"vereinfacht und stattdessen nach \"%(clean_query)s\" gesucht."
 
 #: r2/lib/strings.py:143
 msgid "I couldn't understand your search query. Please try again."
@@ -1703,7 +1706,7 @@ msgstr "Sorry, die maximale Anzahl an Kommentare beträgt %d."
 #: r2/lib/strings.py:153
 #, python-format
 msgid "%(sender)s just sent you %(amount)s of reddit gold! Wasn't that nice?"
-msgstr ""
+msgstr "%(sender)s hat dir gerade %(amount)s reddit gold geschickt! Nett oder?"
 
 #: r2/lib/strings.py:154
 msgid ""
