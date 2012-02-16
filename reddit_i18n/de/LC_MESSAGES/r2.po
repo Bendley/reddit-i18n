@@ -3689,11 +3689,11 @@ msgstr ""
 
 #: r2/templates/preffeeds.html:54
 msgid "your front page"
-msgstr ""
+msgstr "Deine Frontpage"
 
 #: r2/templates/preffeeds.html:57
 msgid "your saved links"
-msgstr ""
+msgstr "Gespeicherte Links"
 
 #: r2/templates/preffeeds.html:64
 msgid "links you've liked"
@@ -3705,23 +3705,23 @@ msgstr ""
 
 #: r2/templates/preffeeds.html:70
 msgid "links you've hidden"
-msgstr ""
+msgstr "Versteckte Links"
 
 #: r2/templates/preffeeds.html:77 r2/templates/preffeeds.html:97
 msgid "everything"
-msgstr ""
+msgstr "Alles"
 
 #: r2/templates/preffeeds.html:80 r2/templates/preffeeds.html:100
 msgid "unread messages"
-msgstr ""
+msgstr "Ungelesene Nachrichten"
 
 #: r2/templates/preffeeds.html:83
 msgid "messages only"
-msgstr ""
+msgstr "Nur Nachrichten"
 
 #: r2/templates/preffeeds.html:86
 msgid "comment replies only"
-msgstr ""
+msgstr "Nur Kommentar Antworten"
 
 #: r2/templates/preffeeds.html:89
 msgid "self-post replies only"
@@ -3733,7 +3733,7 @@ msgstr "Deine Benutzer-Einstellungen wurden aktualisiert"
 
 #: r2/templates/prefoptions.html:89
 msgid "interface language"
-msgstr "Oberfläche"
+msgstr "Oberflächen Sprache"
 
 #: r2/templates/prefoptions.html:93
 msgid "incomplete"
@@ -3757,7 +3757,7 @@ msgstr "Links mit einer reddit Toolbar anzeigen"
 
 #: r2/templates/prefoptions.html:113 r2/templates/promotelinkform.html:353
 msgid "media"
-msgstr "Bilder"
+msgstr "Medien"
 
 #: r2/templates/prefoptions.html:116
 msgid "show thumbnails next to links"
@@ -3774,11 +3774,11 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:119
 msgid "make safe(r) for work "
-msgstr ""
+msgstr "Arbeitsplatz geeignet machen"
 
 #: r2/templates/prefoptions.html:122
 msgid "(Don't show thumbnails next to anything labeled NSFW)"
-msgstr ""
+msgstr "(Zeige keine Thumbnails bei etwas mit dem Label NSFW)"
 
 #: r2/templates/prefoptions.html:125
 msgid "to enable thumbnails, disable compressed link display"
@@ -3817,7 +3817,7 @@ msgstr "Links nicht mehr zeigen, nachdem ich sie gemocht habe"
 
 #: r2/templates/prefoptions.html:150 r2/templates/prefoptions.html:154
 msgid "(except my own)"
-msgstr ""
+msgstr "(außer meine eigenen)"
 
 #: r2/templates/prefoptions.html:152
 msgid "don't show links after i've disliked them"
@@ -3873,15 +3873,15 @@ msgstr "%(num)s Kommentare anzeigen"
 
 #: r2/templates/prefoptions.html:201
 msgid "the smaller the number, the faster your comments pages will load"
-msgstr ""
+msgstr "je kleiner die Nummer, desto schneller laden die Kommentar Seiten"
 
 #: r2/templates/prefoptions.html:206
 msgid "messaging options"
-msgstr ""
+msgstr "Nachrichten Optionen"
 
 #: r2/templates/prefoptions.html:208
 msgid "show message conversations in the inbox"
-msgstr ""
+msgstr "zeige Nachrichten Konversationen im Postfach"
 
 #: r2/templates/prefoptions.html:211
 msgid "(only applies when you go to the 'messages' panel)"
@@ -3889,19 +3889,19 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:215
 msgid "collapse messages after I've read them"
-msgstr ""
+msgstr "Klasse Nachrichten ein nachdem ich sie gelesen habe"
 
 #: r2/templates/prefoptions.html:218
 msgid "(otherwise, you'll have to collapse them yourself)"
-msgstr ""
+msgstr "(sonst muss du sie selber einklappen)"
 
 #: r2/templates/prefoptions.html:222
 msgid "mark messages as read when I open my inbox"
-msgstr ""
+msgstr "Makiere Nachrichten als gelesen wenn ich mein Postfach öffne"
 
 #: r2/templates/prefoptions.html:225
 msgid "(otherwise, they will be marked as read when you click them)"
-msgstr ""
+msgstr "(sonst werden sie bei Klick als gelesen makiert)"
 
 #: r2/templates/prefoptions.html:230 r2/templates/widgetdemopanel.html:193
 msgid "display options"
@@ -3913,7 +3913,7 @@ msgstr "Erlaube Reddit-spezifische Layouts"
 
 #: r2/templates/prefoptions.html:234
 msgid "show user flair"
-msgstr ""
+msgstr "zeige Nutzer flair"
 
 #: r2/templates/prefoptions.html:237
 msgid "show promote tab on front page"
@@ -3929,7 +3929,7 @@ msgstr "wird für einige Reddits benötigt"
 
 #: r2/templates/prefoptions.html:248
 msgid "label posts that are not safe for work (NSFW)"
-msgstr ""
+msgstr "Makiere posts die unpassend für den Arbeitsplatz sind"
 
 #: r2/templates/prefoptions.html:250
 msgid "enable private RSS feeds"
@@ -3954,15 +3954,15 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:267
 msgid "allow my data to be used for research purposes"
-msgstr ""
+msgstr "erlaube meine Daten zu Forschungszwecken zu nutzen"
 
 #: r2/templates/prefoptions.html:277
 msgid "don't allow search engines to index my user profile"
-msgstr ""
+msgstr "verbiete es Suchmaschinen mein Profil zu indexieren"
 
 #: r2/templates/prefoptions.html:285
 msgid "load core JS libraries from reddit servers"
-msgstr ""
+msgstr "Lade die Kern JS Bibliotheken von den Reddit Servern"
 
 #: r2/templates/prefoptions.html:299
 msgid "gold options"
@@ -4040,19 +4040,19 @@ msgstr "Nicht verifiziert"
 
 #: r2/templates/prefupdate.html:55
 msgid "click to verify"
-msgstr ""
+msgstr "Klicke zum bestätigen"
 
 #: r2/templates/prefupdate.html:65
 msgid "(required)"
-msgstr ""
+msgstr "(Notwendig)"
 
 #: r2/templates/prefupdate.html:65
 msgid "current password"
-msgstr ""
+msgstr "aktuelles Passwort"
 
 #: r2/templates/prefupdate.html:80 r2/templates/resetpassword.html:38
 msgid "new password"
-msgstr ""
+msgstr "neues Passwort"
 
 #: r2/templates/prefupdate.html:96
 msgid "send verification email"
@@ -4075,17 +4075,17 @@ msgstr "Entnehmen"
 #: r2/templates/printablebuttons.html:140 r2/templates/trophycase.html:47
 #: r2/templates/trophycase.html:67
 msgid "removed"
-msgstr ""
+msgstr "entfernt"
 
 #: r2/templates/printablebuttons.html:51
 msgid "approve"
-msgstr ""
+msgstr "akzeptieren"
 
 #: r2/templates/printablebuttons.html:52
 #: r2/templates/printablebuttons.html:143
 #: r2/templates/subredditinfobar.html:82
 msgid "approved"
-msgstr ""
+msgstr "akzeptiert"
 
 #: r2/templates/printablebuttons.html:58
 msgid "report"
@@ -4208,15 +4208,15 @@ msgstr "Antworten"
 
 #: r2/templates/printablebuttons.html:326
 msgid "block user"
-msgstr ""
+msgstr "blockiere Nutzer"
 
 #: r2/templates/printablebuttons.html:326
 msgid "blocked"
-msgstr ""
+msgstr "geblockt"
 
 #: r2/templates/printablebuttons.html:330
 msgid "mark unread"
-msgstr ""
+msgstr "markiere als ungelesen"
 
 #: r2/templates/printablebuttons.html:384
 msgid "are you sure?"
@@ -4338,11 +4338,11 @@ msgstr ""
 
 #: r2/templates/promotelinkform.html:362
 msgid "width"
-msgstr ""
+msgstr "Breite"
 
 #: r2/templates/promotelinkform.html:370
 msgid "height"
-msgstr ""
+msgstr "Höhe"
 
 #: r2/templates/promotelinkform.html:415 r2/templates/promotelinkform.html:496
 msgid "promotion history"
@@ -4448,11 +4448,11 @@ msgstr ""
 
 #: r2/templates/searchbar.html:52
 msgid "satisfied?"
-msgstr ""
+msgstr "zufrieden?"
 
 #: r2/templates/searchbar.html:56
 msgid "thanks for your feedback!"
-msgstr ""
+msgstr "Danke für dein Feedback!"
 
 #: r2/templates/searchform.html:34
 msgid "find things posted in {name} only"
@@ -4533,7 +4533,7 @@ msgstr ""
 #: r2/templates/spotlightlisting.html:60 r2/templates/spotlightlisting.html:74
 #: r2/templates/spotlightlisting.html:101
 msgid "here"
-msgstr ""
+msgstr "hier"
 
 #: r2/templates/spotlightlisting.html:68
 msgid ""
@@ -4579,7 +4579,7 @@ msgstr ""
 
 #: r2/templates/subreddit.html:98
 msgid "over18"
-msgstr ""
+msgstr "über 18"
 
 #: r2/templates/subredditinfobar.html:34
 msgid "leave"
@@ -4639,7 +4639,7 @@ msgstr ""
 #: r2/templates/subredditstylesheet.html:82
 #: r2/templates/subredditstylesheet.html:265
 msgid "preview"
-msgstr ""
+msgstr "Vorschau"
 
 #: r2/templates/subredditstylesheet.html:97
 msgid "images"
@@ -4647,11 +4647,11 @@ msgstr "Bilder"
 
 #: r2/templates/subredditstylesheet.html:101
 msgid "image file"
-msgstr ""
+msgstr "Bilddatei"
 
 #: r2/templates/subredditstylesheet.html:104
 msgid "new image name:"
-msgstr ""
+msgstr "neuer Bildname:"
 
 #: r2/templates/subredditstylesheet.html:109
 msgid "(image names should consist of alphanumeric characters and '-' only)"
@@ -4673,7 +4673,7 @@ msgstr ""
 
 #: r2/templates/subredditstylesheet.html:246
 msgid "delete this image"
-msgstr ""
+msgstr "lösche dieses Bild"
 
 #: r2/templates/subredditstylesheet.html:268
 msgid "normal link"
@@ -4689,7 +4689,7 @@ msgstr ""
 
 #: r2/templates/tablelisting.html:50
 msgid "first"
-msgstr ""
+msgstr "Erster"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
